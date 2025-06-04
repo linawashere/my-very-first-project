@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> ?????? </title>
+<title> Освоение космоса </title>
 <BODY BACKGROUND="kosmos.jpg">
 </head>
 <body>
