@@ -1,9 +1,9 @@
-<html>   <head>   <title>Космос</title> </head>
+<html>   <head>   <title>РљРѕСЃРјРѕСЃ</title> </head>
  <frameset rows='70, *'>
-  <!-- разделение на две строки -->
+  <!-- СЂР°Р·РґРµР»РµРЅРёРµ РЅР° РґРІРµ СЃС‚СЂРѕРєРё -->
   <frame src="head.htm" scrolling="no" >
-   <frameset cols="243, *">  <!-- вторая строка разделяется на два столбца -->
+   <frameset cols="243, *">  <!-- РІС‚РѕСЂР°СЏ СЃС‚СЂРѕРєР° СЂР°Р·РґРµР»СЏРµС‚СЃСЏ РЅР° РґРІР° СЃС‚РѕР»Р±С†Р° -->
      <frame src="Menu.htm" scrolling="no" >
-      <frame src="этимология.html" name='inf'>
+      <frame src="СЌС‚РёРјРѕР»РѕРіРёСЏ.html" name='inf'>
    </frameset>
  </frameset>"      </html>
