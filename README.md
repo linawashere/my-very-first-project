@@ -1,0 +1,1 @@
+I created my first website in 2016, at that time many technologies did not exist, and I was only able to master html, but I am still proud that this project was my first and from that moment I appeared as a developer
