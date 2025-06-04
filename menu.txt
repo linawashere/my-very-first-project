@@ -1,0 +1,12 @@
+<html> <head>   <title>МЕНЮ</title><marquee behavior="slide" direction="up" height="400" scrollamount="10" loop="1">
+ </head>
+<body BACKGROUND="рс.jpg">
+ <center>   <b>МЕНЮ</b>  </center>   <hr>
+       <a href="этимология.html" target='inf'><pre>1.                  этимология</pre></a>
+       <a href="воздействие.html" target='inf'><pre>2.              воздействие</pre></a>
+       <a href="границы.html" target='inf'><pre>3.    границы</pre></a>  
+       <a href="задачи.html" target='inf'><pre>4.       задачи</pre></a>  
+       <a href="солнечная_система.html" target='inf'><pre>5.   сослнечная система</pre></a>
+       <a href="освоение космоса.html" target='inf'><pre>6.           освоение космоса</pre></a> 
+
+</body> </html>

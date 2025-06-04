@@ -1,0 +1,9 @@
+<html> <head>   <title> Космос</title>
+</head>
+<body bgcolor="000066" text="#FFFFFF" link="#66FFFF" vlink="#CCFFFF"><center> 
+  <marquee behavior="slide" direction="down" scrollamount="10" height="40"
+width="470" loop="1">
+  <img src="WELCOME8.gif" >
+  <Font color="#3399ff" size='6'>Космос </Font>
+  <img src="WELCOME8.gif" ></center>
+</html>
