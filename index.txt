@@ -1,9 +1,9 @@
 <html>   <head>   <title>Космос</title> </head>
  <frameset rows='70, *'>
   <!-- разделение на две строки -->
-  <frame src="head.htm" scrolling="no" >
+  <frame src="head.html" scrolling="no" >
    <frameset cols="243, *">  <!-- вторая строка разделяется на два столбца -->
-     <frame src="Menu.html" scrolling="no" >
+     <frame src="menu.html" scrolling="no" >
       <frame src="этимология.html" name='inf'>
    </frameset>
  </frameset>"      </html>
